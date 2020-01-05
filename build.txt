@@ -1,0 +1,4 @@
+displayName = Gemstone Tools
+author = Chairzaird
+version = 0.2
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
